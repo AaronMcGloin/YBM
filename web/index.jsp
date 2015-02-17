@@ -4,7 +4,7 @@
 
 <div id="indexLeftColumn">
     <div id="welcomeText">
-        <p>[ welcome text ]</p>
+        <a href="admin">link text</a>
     </div>
 </div>
 

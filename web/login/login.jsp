@@ -1,4 +1,9 @@
 <form action="j_security_check" method=post>
+    
+    <div id="welcomeText"
+         <h1> hello </h1> 
+             
+    
     <div id="loginBox">
         <p><strong>username:</strong>
             <input type="text" size="20" name="j_username"></p>
